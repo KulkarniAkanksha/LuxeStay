@@ -136,7 +136,7 @@ Contributions are welcome! Please follow the contribution guidelines to submit i
 
 ## Contact
 
-- Project Maintainer: Mihir Pawar
-- Email: pawarmihir36@gmail.com
-- GitHub: mihirpawar2001
+- Project Maintainer: Akanksha Kulkarni
+- Email: kgayatri360@gmail.com
+- GitHub: KulkarniAkanksha
 # LuxeStay
